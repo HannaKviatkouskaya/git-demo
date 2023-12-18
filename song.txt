@@ -5,3 +5,9 @@ standing strong
 on this their chosen battlefield
 
 new code
+
+adding new lines as a test
+
+feature branch commit1
+
+feature branch commit2
